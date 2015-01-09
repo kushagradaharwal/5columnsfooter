@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <NationalTiles_Storeswitcher>
+            <active>true</active>
+            <codePool>local</codePool>
+        </NationalTiles_Storeswitcher>
+    </modules>
+</config> 

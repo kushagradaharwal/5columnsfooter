@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <storeswitcher_adminhtml_storeswitcher_index>
+        <reference name="content">
+            <block type="storeswitcher/adminhtml_storeswitcher" name="storeswitcher" />
+        </reference>
+    </storeswitcher_adminhtml_storeswitcher_index>
+</layout>

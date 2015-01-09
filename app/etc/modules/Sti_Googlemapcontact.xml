@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sti_Googlemapcontact>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Sti_Googlemapcontact>
+    </modules>
+</config> 
